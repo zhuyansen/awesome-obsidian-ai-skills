@@ -6,6 +6,22 @@
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/obsidian-second-brain/](https://agentskillshub.top/best/obsidian-second-brain/?utm_source=github&utm_medium=awesome-list)** · 每 8 小时刷新
 
+## 到底装哪个
+
+我们实跑了其中 10 个(5 个出了结果),结论如下。[完整实测结果](#tested)在下面。
+
+- 🥇 **想给知识库接一个 MCP 服务: [mcpvault](https://github.com/bitbonsai/mcpvault)**  
+  它自己读库文件夹，不用开着 Obsidian 应用；15 道题全部通过它自己的工具答对，token 大约是普通文件工具的两倍。这是在没有文件访问权限的客户端里用它要付的价钱。
+- 🥈 **在 Claude Code 里想要一套建库流程: [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)**  
+  跑成的工具里最省的（约为对照的 1.7 倍）。它没有改变回答问题的方式：笔记是 Claude Code 用自带工具读的。装它是为了记笔记的流程，不是为了检索。
+
+**安装前先确认:** mcp-obsidian (这里星数最高的 MCP 服务，必须开着 Obsidian 并启用 Local REST API 插件；obsidian-mcp-tools 和 obsidian-mcp-server 也一样); obsidian-mcp (15 题全对，但 token 是普通文件工具的六倍).
+
+如果你本来就在库文件夹里用 Claude Code，问笔记问题可能根本不需要这些工具：什么都不装，它 15 题全对（包括库里答不出的 3 题），用的 token 还最少。
+
+*按消耗的 token 排列。准确率分不出高下：跑成的每个工具，以及只用普通文件工具的 Claude Code，15 道题全部答对。每个只跑一次，测试库有 560 条笔记。*
+
+
 ## 这些项目长什么样
 
 <table>
@@ -22,6 +38,7 @@
 
 ## 目录
 
+- [🧪 端到端实测](#tested)
 - [🧩 Agent Skill](#type-skill) (38)
 - [🔌 MCP 服务](#type-mcp) (36)
 - [🧱 AI 插件](#type-plugin) (38)
@@ -36,6 +53,25 @@
 4. 50 星及以上只看是否切题;50 星以下还要过 README 质量线(展示效果、一条命令上手、说清产出、文档完整),并且至少 5 星。
 
 这些问题由决策模型逐个读 README 回答,不是人工挑选。卡在线上的仓库可能判到任一边,归错了请提 issue。
+
+<a id="tested"></a>
+## 🧪 端到端实测
+
+2026-10-10 我们实跑了其中 10 个，跑成 5 个。每个装在用完即删的沙箱里，回答关于同一个 560 条笔记测试库（日记、项目、会议、人物，并埋了相似的干扰项）的 15 道题。题目按 LongMemEval 的五种能力出，每种三道：找一个事实、跨笔记推理、按日期推理、跟上被后来笔记改掉的事实、库里没有答案时如实说没有。评审是 gpt-6-astra，三遍取多数。只用普通文件工具的 Claude Code 做同样的事，作为对照。
+
+**发现:** 跑成的每一个都 15 题全对，对照组也是：这个规模的库，搜索加读取就够了。差别在成本。对照组用了 32,109 个 token，工具是它的 1.7 到 6.1 倍。跑成的三个 skill，搜索用的都是 Claude Code 自带的文件工具，不是 skill。10 个里有 3 个不开着 Obsidian 桌面应用就跑不了。
+
+| # | 工具 | ★ | 答对（共 15） | 走工具的调用 | 普通文件调用 | Token（对照的倍数） | 耗时 |  |
+|---|---|---|---|---|---|---|---|---|
+| 1 | [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 14,802 | 15/15 | 1 | 7 | 53,840 (1.7×) | 1.5 分钟 | [证据](https://agentskillshub.top/best-runs/obsidian/AgriciDaniel__claude-obsidian.html) |
+| 2 | [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) | 4,633 | 15/15 | 0 | 8 | 60,051 (1.9×) | 1.2 分钟 | [证据](https://agentskillshub.top/best-runs/obsidian/eugeniughelbur__obsidian-second-brain.html) |
+| 3 | [mcpvault](https://github.com/bitbonsai/mcpvault) | 1,682 | 15/15 | 22 | 2 | 67,784 (2.1×) | 1.1 分钟 | [证据](https://agentskillshub.top/best-runs/obsidian/bitbonsai__mcpvault.html) |
+| 4 | [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 3,537 | 15/15 | 1 | 9 | 74,339 (2.3×) | 1.4 分钟 | [证据](https://agentskillshub.top/best-runs/obsidian/Ar9av__obsidian-wiki.html) |
+| 5 | [obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) | 741 | 15/15 | 36 | 3 | 194,602 (6.1×) | 1.4 分钟 | [证据](https://agentskillshub.top/best-runs/obsidian/StevenStavrakis__obsidian-mcp.html) |
+
+**沙箱里跑不了:** obsidian-skills (它的 skill 教 agent 写 Obsidian 的格式（Markdown、Bases、Canvas）；唯一能读库的那个要驱动 Obsidian 应用。); obsidian-mind (它的服务只开放库内清单文件里列出的文件夹，搜索还要装 qmd；测试库两样都没有，加进去就改动了库。); mcp-obsidian (只能通过正在运行的 Obsidian 桌面应用里的 Local REST API 插件工作；无界面的沙箱里没有。); obsidian-mcp-tools (只能通过正在运行的 Obsidian 桌面应用里的 Local REST API 插件工作；无界面的沙箱里没有。); obsidian-mcp-server (只能通过正在运行的 Obsidian 桌面应用里的 Local REST API 插件工作；无界面的沙箱里没有。)
+
+[全部结果、提示词和脚本](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/obsidian-runs/RESULTS.md) · [https://agentskillshub.top/best/obsidian-second-brain/#test-results](https://agentskillshub.top/best/obsidian-second-brain/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-obsidian-ai-skills#test-results)
 
 <a id="type-skill"></a>
 ## 🧩 Agent Skill

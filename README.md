@@ -6,6 +6,22 @@ Open-source **Obsidian skills, MCP servers and AI plugins** that let Claude Code
 
 Live page with filters: **[https://agentskillshub.top/best/obsidian-second-brain/](https://agentskillshub.top/best/obsidian-second-brain/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
+## Which one to install
+
+We ran 10 of these end to end (5 gave a result). This is what we would pick; the [full test](#tested) is below.
+
+- 🥇 **If you want an MCP server for your vault: [mcpvault](https://github.com/bitbonsai/mcpvault)**  
+  It reads the vault folder itself, so it works without the Obsidian app running, and it answered all 15 through its own tools for about twice the tokens of plain file tools. That is the price of using it from a client that has no file access.
+- 🥈 **If you work in Claude Code and want a vault workflow: [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)**  
+  The cheapest of the tools that ran (about 1.7 times the control). It did not change how questions get answered: Claude Code read the notes with its own tools. Install it for the note-taking workflow, not for recall.
+
+**Check before you install:** mcp-obsidian (the most-starred MCP server here needs Obsidian open with the Local REST API plugin, as do obsidian-mcp-tools and obsidian-mcp-server); obsidian-mcp (all 15 right, at six times the tokens of plain file tools).
+
+If you already use Claude Code in the vault folder, you may not need any of these to ask your notes a question: with no tool installed it answered all 15, including the three the vault cannot answer, for the fewest tokens.
+
+*Listed by tokens used. Accuracy does not rank them: every tool that ran, and Claude Code with plain file tools, answered all 15 questions. One run each, on a 560-note vault.*
+
+
 ## What these projects look like
 
 <table>
@@ -22,6 +38,7 @@ Live page with filters: **[https://agentskillshub.top/best/obsidian-second-brain
 
 ## Contents
 
+- [🧪 Tested end to end](#tested)
 - [🧩 Obsidian skills](#type-skill) (38)
 - [🔌 Obsidian MCP servers](#type-mcp) (36)
 - [🧱 Obsidian AI plugins](#type-plugin) (38)
@@ -36,6 +53,25 @@ Live page with filters: **[https://agentskillshub.top/best/obsidian-second-brain
 4. At 50 stars or more it is listed on topic alone. Under 50 it must also clear a README quality bar (shows it working, one-command start, a concrete outcome, complete docs), and have 5 stars.
 
 The questions are answered by a decision model reading each README, not by hand. A repo near a cut-off can land on either side; open an issue if one is misfiled.
+
+<a id="tested"></a>
+## 🧪 Tested end to end
+
+On 2026-10-10 we ran 10 of these tools and 5 ran. Each was installed in a throwaway sandbox and asked the same 15 questions about a 560-note test vault (daily notes, projects, meetings, people, with near misses planted). The questions follow LongMemEval's five abilities, three each: find one fact, reason across notes, reason about dates, keep up with a fact that a later note changed, and say so when the vault does not hold the answer. A judge (gpt-6-astra, three passes) marked the answers. Claude Code with plain file tools did the same as a control.
+
+**What we found:** Every one that ran answered all 15, and so did the control: on a vault this size, search and read are enough. What differs is cost. The control used 32,109 tokens; the tools used 1.7 to 6.1 times that. The three skills that ran did their searching with Claude Code's own file tools, not through the skill. And 3 of the 10 could not run without the Obsidian desktop app open.
+
+| # | Tool | ★ | Right (of 15) | Calls through the tool | Plain file calls | Tokens (× control) | Time |  |
+|---|---|---|---|---|---|---|---|---|
+| 1 | [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 14,802 | 15/15 | 1 | 7 | 53,840 (1.7×) | 1.5 min | [evidence](https://agentskillshub.top/best-runs/obsidian/AgriciDaniel__claude-obsidian.html) |
+| 2 | [obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) | 4,633 | 15/15 | 0 | 8 | 60,051 (1.9×) | 1.2 min | [evidence](https://agentskillshub.top/best-runs/obsidian/eugeniughelbur__obsidian-second-brain.html) |
+| 3 | [mcpvault](https://github.com/bitbonsai/mcpvault) | 1,682 | 15/15 | 22 | 2 | 67,784 (2.1×) | 1.1 min | [evidence](https://agentskillshub.top/best-runs/obsidian/bitbonsai__mcpvault.html) |
+| 4 | [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 3,537 | 15/15 | 1 | 9 | 74,339 (2.3×) | 1.4 min | [evidence](https://agentskillshub.top/best-runs/obsidian/Ar9av__obsidian-wiki.html) |
+| 5 | [obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) | 741 | 15/15 | 36 | 3 | 194,602 (6.1×) | 1.4 min | [evidence](https://agentskillshub.top/best-runs/obsidian/StevenStavrakis__obsidian-mcp.html) |
+
+**Could not run in a sandbox:** obsidian-skills (Its skills teach an agent to write Obsidian formats (Markdown, Bases, Canvas); the only one that reads a vault drives the Obsidian app.); obsidian-mind (Its server only exposes folders listed in a manifest inside the vault, and its search needs qmd; our test vault has neither, and adding them would change the vault.); mcp-obsidian (Works only through the Local REST API plugin inside the running Obsidian desktop app; a headless sandbox has none.); obsidian-mcp-tools (Works only through the Local REST API plugin inside the running Obsidian desktop app; a headless sandbox has none.); obsidian-mcp-server (Works only through the Local REST API plugin inside the running Obsidian desktop app; a headless sandbox has none.)
+
+[All results, prompts and scripts](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/obsidian-runs/RESULTS.md) · [https://agentskillshub.top/best/obsidian-second-brain/#test-results](https://agentskillshub.top/best/obsidian-second-brain/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-obsidian-ai-skills#test-results)
 
 <a id="type-skill"></a>
 ## 🧩 Obsidian skills
