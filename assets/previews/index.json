@@ -1,4 +1,14 @@
 {
+ "SystemSculpt/obsidian-systemsculpt-ai": {
+  "repo": "SystemSculpt/obsidian-systemsculpt-ai",
+  "url": "https://raw.githubusercontent.com/SystemSculpt/obsidian-systemsculpt-ai/main/docs/images/readme-chat-approval.png",
+  "alt": "An example of SystemSculpt asking before a note edit in Ask mode and showing the",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 503999,
+  "file": "SystemSculpt__obsidian-systemsculpt-ai.jpg",
+  "still": "SystemSculpt__obsidian-systemsculpt-ai.jpg"
+ },
  "mistrysiddh/hermes-brain-template": {
   "repo": "mistrysiddh/hermes-brain-template",
   "url": "https://raw.githubusercontent.com/mistrysiddh/hermes-brain-template/HEAD/assets/graph-view-screenshot.png",
