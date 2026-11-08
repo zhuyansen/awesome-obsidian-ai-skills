@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-08",
  "source": "https://agentskillshub.top/best/obsidian-second-brain/",
  "kinds": [
   {
@@ -37,7 +37,7 @@
   {
    "repo_full_name": "kepano/obsidian-skills",
    "path": null,
-   "stars": 50801,
+   "stars": 50999,
    "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
    "kind": "skill",
    "security_grade": "safe",
@@ -47,7 +47,7 @@
   {
    "repo_full_name": "AgriciDaniel/claude-obsidian",
    "path": null,
-   "stars": 16188,
+   "stars": 16255,
    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
    "kind": "skill",
    "security_grade": "safe",
@@ -57,7 +57,7 @@
   {
    "repo_full_name": "eugeniughelbur/obsidian-second-brain",
    "path": null,
-   "stars": 5166,
+   "stars": 5220,
    "description": "Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents.",
    "kind": "skill",
    "security_grade": "safe",
@@ -67,8 +67,18 @@
   {
    "repo_full_name": "Ar9av/obsidian-wiki",
    "path": null,
-   "stars": 3688,
+   "stars": 3698,
    "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "SamurAIGPT/llm-wiki-agent",
+   "path": null,
+   "stars": 3685,
+   "description": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.",
    "kind": "skill",
    "security_grade": "safe",
    "language": "Python",
@@ -77,7 +87,7 @@
   {
    "repo_full_name": "axtonliu/axton-obsidian-visual-skills",
    "path": null,
-   "stars": 3677,
+   "stars": 3679,
    "description": "Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code",
    "kind": "skill",
    "security_grade": "safe",
@@ -85,19 +95,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "SamurAIGPT/llm-wiki-agent",
-   "path": null,
-   "stars": 3676,
-   "description": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "Astro-Han/karpathy-llm-wiki",
    "path": null,
-   "stars": 2688,
+   "stars": 2698,
    "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.",
    "kind": "skill",
    "security_grade": "safe",
@@ -107,7 +107,7 @@
   {
    "repo_full_name": "juliye2025/evil-read-arxiv",
    "path": null,
-   "stars": 1788,
+   "stars": 1795,
    "description": "Claude Code+Obsidian，邪修读论文就是快",
    "kind": "skill",
    "security_grade": "safe",
@@ -117,7 +117,7 @@
   {
    "repo_full_name": "bevibing/tutor-skills",
    "path": null,
-   "stars": 1390,
+   "stars": 1394,
    "description": "A Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults",
    "kind": "skill",
    "security_grade": "safe",
@@ -127,7 +127,7 @@
   {
    "repo_full_name": "917Dhj/DeepPaperNote",
    "path": null,
-   "stars": 1303,
+   "stars": 1314,
    "description": "DeepPaperNote is an agent skill for deep-reading a single paper and generating high-quality Obsidian-style research notes. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "kind": "skill",
    "security_grade": "safe",
@@ -137,7 +137,7 @@
   {
    "repo_full_name": "NicholasSpisak/second-brain",
    "path": null,
-   "stars": 771,
+   "stars": 772,
    "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
    "kind": "skill",
    "security_grade": "safe",
@@ -147,7 +147,7 @@
   {
    "repo_full_name": "pablo-mano/Obsidian-CLI-skill",
    "path": null,
-   "stars": 460,
+   "stars": 462,
    "description": "Obsidian Skill for Claude Code and other agents ",
    "kind": "skill",
    "security_grade": "safe",
@@ -157,7 +157,7 @@
   {
    "repo_full_name": "XMihura/Kanvas",
    "path": null,
-   "stars": 386,
+   "stars": 390,
    "description": "Manage projects visually with humans and AI agents",
    "kind": "skill",
    "security_grade": "safe",
@@ -167,7 +167,7 @@
   {
    "repo_full_name": "avenoxai/avenoxbeyin",
    "path": null,
-   "stars": 342,
+   "stars": 361,
    "description": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md",
    "kind": "skill",
    "security_grade": "safe",
@@ -177,7 +177,7 @@
   {
    "repo_full_name": "Encod3d-Sec/TORCH",
    "path": null,
-   "stars": 339,
+   "stars": 340,
    "description": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
    "kind": "skill",
    "security_grade": "safe",
@@ -207,7 +207,7 @@
   {
    "repo_full_name": "ArtemXTech/claude-code-obsidian-starter",
    "path": null,
-   "stars": 225,
+   "stars": 226,
    "description": "Free starter kit: Claude Code + Obsidian. Pre-configured vault with skills for projects, tasks, clients, and daily routines. Just open and go.",
    "kind": "skill",
    "security_grade": "safe",
@@ -237,7 +237,7 @@
   {
    "repo_full_name": "IssacW228/student-llm-wiki",
    "path": null,
-   "stars": 179,
+   "stars": 180,
    "description": "📚 Student LLM Wiki — AI-compiled knowledge base for university students. Drop course slides, get a persistent interlinked wiki. Feynman review, exam prep, confidence decay, cross-course connections. Based on Karpathy's LLM Wiki pattern. Works with Claude Cowork / Claude Code / Claudian + Obsidian.学生大语言模型维基百科——专为大学生打造的AI编译知识库。",
    "kind": "skill",
    "security_grade": "safe",
@@ -247,7 +247,7 @@
   {
    "repo_full_name": "ravila4/claude-adhd-skills",
    "path": null,
-   "stars": 171,
+   "stars": 173,
    "description": "Claude Code skills and hooks for staying organized with AI agents.",
    "kind": "skill",
    "security_grade": "safe",
@@ -317,7 +317,7 @@
   {
    "repo_full_name": "smixs/autograph",
    "path": null,
-   "stars": 77,
+   "stars": 78,
    "description": "Schema-as-code memory for AI agents in Obsidian: typed cards, entity dedup, link repair, update-in-place, and Ebbinghaus decay. Plain Markdown you own — a Claude Code skill.",
    "kind": "skill",
    "security_grade": "safe",
@@ -357,7 +357,7 @@
   {
    "repo_full_name": "caibucaiAI/caicai-english-buddy",
    "path": null,
-   "stars": 56,
+   "stars": 57,
    "description": "把真实英语口语对话沉淀成 Obsidian 每日记录、单词本、反馈标签与周复盘的 Codex Skill",
    "kind": "skill",
    "security_grade": "safe",
@@ -417,7 +417,7 @@
   {
    "repo_full_name": "inkeep/open-knowledge",
    "path": null,
-   "stars": 4790,
+   "stars": 4811,
    "description": "Beautiful, AI-native markdown IDE and LLM wiki",
    "kind": "mcp",
    "security_grade": "safe",
@@ -427,7 +427,7 @@
   {
    "repo_full_name": "MarkusPfundstein/mcp-obsidian",
    "path": null,
-   "stars": 4520,
+   "stars": 4524,
    "description": "MCP server that interacts with Obsidian via the Obsidian rest API community plugin",
    "kind": "mcp",
    "security_grade": "safe",
@@ -437,7 +437,7 @@
   {
    "repo_full_name": "coddingtonbear/obsidian-local-rest-api",
    "path": null,
-   "stars": 3113,
+   "stars": 3128,
    "description": "A secure REST API and Model Context Protocol (MCP) server for your vault.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -447,7 +447,7 @@
   {
    "repo_full_name": "lucasastorian/llmwiki",
    "path": null,
-   "stars": 1752,
+   "stars": 1758,
    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
    "kind": "mcp",
    "security_grade": "safe",
@@ -457,7 +457,7 @@
   {
    "repo_full_name": "bitbonsai/mcpvault",
    "path": null,
-   "stars": 1716,
+   "stars": 1718,
    "description": "A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access",
    "kind": "mcp",
    "security_grade": "safe",
@@ -477,7 +477,7 @@
   {
    "repo_full_name": "StevenStavrakis/obsidian-mcp",
    "path": null,
-   "stars": 748,
+   "stars": 750,
    "description": "A simple MCP server for Obsidian",
    "kind": "mcp",
    "security_grade": "safe",
@@ -497,7 +497,7 @@
   {
    "repo_full_name": "itechmeat/open-second-brain",
    "path": null,
-   "stars": 511,
+   "stars": 515,
    "description": "Local-first 🧠 memory for Hermes Agent that lives in your Obsidian vault and remembers project context. Nightly 😴 dream passes turn repeat corrections into confirmed preferences with measurable confidence. Adapters ship for Claude Code, Codex, and OpenClaw, with an MCP server for anything else.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -517,7 +517,7 @@
   {
    "repo_full_name": "iansinnott/obsidian-claude-code-mcp",
    "path": null,
-   "stars": 359,
+   "stars": 360,
    "description": "Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)",
    "kind": "mcp",
    "security_grade": "safe",
@@ -527,7 +527,7 @@
   {
    "repo_full_name": "newtype-01/obsidian-mcp",
    "path": null,
-   "stars": 308,
+   "stars": 309,
    "description": "Obsidian MCP (Model Context Protocol) Server",
    "kind": "mcp",
    "security_grade": "safe",
@@ -567,7 +567,7 @@
   {
    "repo_full_name": "devwhodevs/engraph",
    "path": null,
-   "stars": 174,
+   "stars": 175,
    "description": "Local knowledge graph for AI agents. Hybrid search + MCP server for Obsidian vaults.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -587,7 +587,7 @@
   {
    "repo_full_name": "istefox/obsidian-mcp-connector",
    "path": null,
-   "stars": 129,
+   "stars": 131,
    "description": "Your Obsidian vault, exposed to Claude, Codex, Cursor and any MCP client. Runs inside Obsidian, on-device semantic search, no cloud round-trip, no binary to download.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -607,7 +607,7 @@
   {
    "repo_full_name": "flowing-abyss/obsidian-hybrid-search",
    "path": null,
-   "stars": 118,
+   "stars": 119,
    "description": "Hybrid search for Obsidian vaults via plugin, CLI, and MCP server",
    "kind": "mcp",
    "security_grade": "safe",
@@ -647,7 +647,7 @@
   {
    "repo_full_name": "C-Bjorn/MegaMem",
    "path": null,
-   "stars": 82,
+   "stars": 81,
    "description": "Transform your Obsidian vault into a powerful knowledge graph with MCP support",
    "kind": "mcp",
    "security_grade": "safe",
@@ -665,22 +665,22 @@
    "license": "Apache-2.0"
   },
   {
+   "repo_full_name": "es617/obsidian-sync-mcp",
+   "path": null,
+   "stars": 71,
+   "description": "MCP server for Obsidian — access your vault from any AI agent, even when your machine is off. Powered by Self-hosted LiveSync.",
+   "kind": "mcp",
+   "security_grade": "caution",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "PublikPrinciple/obsidian-mcp-rest",
    "path": null,
    "stars": 69,
    "description": "An MCP server implementation for accessing Obsidian via local REST API",
    "kind": "mcp",
    "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "es617/obsidian-sync-mcp",
-   "path": null,
-   "stars": 69,
-   "description": "MCP server for Obsidian — access your vault from any AI agent, even when your machine is off. Powered by Self-hosted LiveSync.",
-   "kind": "mcp",
-   "security_grade": "caution",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -777,7 +777,7 @@
   {
    "repo_full_name": "YishenTu/claudian",
    "path": null,
-   "stars": 15913,
+   "stars": 15942,
    "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -787,7 +787,7 @@
   {
    "repo_full_name": "logancyang/obsidian-copilot",
    "path": null,
-   "stars": 7946,
+   "stars": 7963,
    "description": "Run agents in Obsidian - OpenCode, Codex, Claude Code etc.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -797,7 +797,7 @@
   {
    "repo_full_name": "RAIT-09/obsidian-agent-client",
    "path": null,
-   "stars": 2469,
+   "stars": 2468,
    "description": "Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -817,7 +817,7 @@
   {
    "repo_full_name": "Lapis0x0/obsidian-yolo",
    "path": null,
-   "stars": 1386,
+   "stars": 1387,
    "description": "Agent-native AI assistant — chat, write, whiteboard, learning, all in one.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -827,7 +827,7 @@
   {
    "repo_full_name": "s2b-dev/smart-second-brain",
    "path": null,
-   "stars": 1344,
+   "stars": 1345,
    "description": "A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -837,7 +837,7 @@
   {
    "repo_full_name": "green-dalii/obsidian-llm-wiki",
    "path": null,
-   "stars": 775,
+   "stars": 780,
    "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&A, and local-first privacy.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -855,6 +855,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "freestylefly/wesight-obsidian",
+   "path": null,
+   "stars": 477,
+   "description": "WeSight Obsidian plugin for local agent runtimes.",
+   "kind": "plugin",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "hkcanan/katmer-code",
    "path": null,
    "stars": 477,
@@ -863,16 +873,6 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "freestylefly/wesight-obsidian",
-   "path": null,
-   "stars": 476,
-   "description": "WeSight Obsidian plugin for local agent runtimes.",
-   "kind": "plugin",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "qgrail/obsidian-ai-assistant",
@@ -887,7 +887,7 @@
   {
    "repo_full_name": "TarsLab/obsidian-tars",
    "path": null,
-   "stars": 335,
+   "stars": 337,
    "description": "Obsidian tars plugin that supports text generation based on tag suggestions, using services like DeepSeek, Claude, OpenAI, OpenRouter, SiliconFlow, Gemini, Ollama, Kimi, Doubao, Qwen, Zhipu, QianFan & more. ",
    "kind": "plugin",
    "security_grade": "safe",
@@ -957,7 +957,7 @@
   {
    "repo_full_name": "edonyzpc/personal-assistant",
    "path": null,
-   "stars": 149,
+   "stars": 148,
    "description": "A plugin that harnesses AI agents and streamlining techniques to help you automatically manage Obsidian.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1067,7 +1067,7 @@
   {
    "repo_full_name": "cybaea/obsidian-vault-intelligence",
    "path": null,
-   "stars": 79,
+   "stars": 80,
    "description": "Obsidian vault intelligence",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1097,7 +1097,7 @@
   {
    "repo_full_name": "jiang198012/workbuddian",
    "path": null,
-   "stars": 69,
+   "stars": 71,
    "description": "Obsidian 插件:把本地 CodeBuddy CLI 或 Hermes agent 变成 vault 内 AI 聊天——流式回复、@引用、双后端切换。Obsidian plugin turning local CodeBuddy CLI or Hermes agent into an in-vault AI chat with streaming, @-references, and dual backends.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1167,7 +1167,7 @@
   {
    "repo_full_name": "breferrari/obsidian-mind",
    "path": null,
-   "stars": 5493,
+   "stars": 5511,
    "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
    "kind": "second_brain",
    "security_grade": "safe",
@@ -1177,7 +1177,7 @@
   {
    "repo_full_name": "agenticnotetaking/arscontexta",
    "path": null,
-   "stars": 3517,
+   "stars": 3518,
    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
    "kind": "second_brain",
    "security_grade": "safe",
@@ -1187,7 +1187,7 @@
   {
    "repo_full_name": "ballred/obsidian-claude-pkm",
    "path": null,
-   "stars": 1887,
+   "stars": 1892,
    "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system.",
    "kind": "second_brain",
    "security_grade": "safe",
@@ -1195,19 +1195,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "alchaincyf/obsidian-ai-orange-book",
-   "path": null,
-   "stars": 1495,
-   "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-   "kind": "second_brain",
-   "security_grade": "safe",
-   "language": null,
-   "license": null
-  },
-  {
    "repo_full_name": "undefined-ui/second-brain-os",
    "path": null,
-   "stars": 1433,
+   "stars": 1525,
    "description": "Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.",
    "kind": "second_brain",
    "security_grade": "safe",
@@ -1215,9 +1205,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "alchaincyf/obsidian-ai-orange-book",
+   "path": null,
+   "stars": 1497,
+   "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
+   "kind": "second_brain",
+   "security_grade": "safe",
+   "language": null,
+   "license": null
+  },
+  {
    "repo_full_name": "jaredrhod/ai-memory-vault",
    "path": null,
-   "stars": 730,
+   "stars": 732,
    "description": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.",
    "kind": "second_brain",
    "security_grade": "safe",
@@ -1247,7 +1247,7 @@
   {
    "repo_full_name": "brianpetro/obsidian-smart-templates",
    "path": null,
-   "stars": 116,
+   "stars": 115,
    "description": "Smart Templates is an AI powered templates for generating structured content in Obsidian. Works with Local Models, Anthropic Claude, Gemini, OpenAI and more.",
    "kind": "second_brain",
    "security_grade": "safe",
@@ -1317,7 +1317,7 @@
   {
    "repo_full_name": "louisfb01/obsidian-agent-vault-template",
    "path": null,
-   "stars": 56,
+   "stars": 62,
    "description": "A ready-to-use Obsidian vault for running an AI agent (Claude, Codex, etc.) as a personal OS: skills, grounding notes, and a self-improving feedback loop. Clone and open as a vault.",
    "kind": "second_brain",
    "security_grade": "safe",
@@ -1367,7 +1367,7 @@
   {
    "repo_full_name": "codexu/note-gen",
    "path": null,
-   "stars": 12985,
+   "stars": 12989,
    "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
    "kind": "sync",
    "security_grade": "safe",
@@ -1377,7 +1377,7 @@
   {
    "repo_full_name": "Railly/agentfiles",
    "path": null,
-   "stars": 859,
+   "stars": 861,
    "description": "Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 12 coding tools — from Obsidian.",
    "kind": "sync",
    "security_grade": "safe",
@@ -1387,7 +1387,7 @@
   {
    "repo_full_name": "ArtemXTech/personal-os-skills",
    "path": null,
-   "stars": 546,
+   "stars": 548,
    "description": "Claude Code skills for Obsidian | Claude Code x Obsidian Lab, 4 weeks live, starts Nov 10",
    "kind": "sync",
    "security_grade": "safe",
@@ -1467,7 +1467,7 @@
   {
    "repo_full_name": "ekadetov/llm-wiki",
    "path": null,
-   "stars": 111,
+   "stars": 110,
    "description": "LLM Wiki — Claude Code plugin for persistent, compounding knowledge bases in Obsidian",
    "kind": "sync",
    "security_grade": "safe",
@@ -1507,7 +1507,7 @@
   {
    "repo_full_name": "crimeacs/claude-note",
    "path": null,
-   "stars": 87,
+   "stars": 88,
    "description": "Your AI pair programmer's memory, synced to Obsidian",
    "kind": "sync",
    "security_grade": "safe",
@@ -1537,7 +1537,7 @@
   {
    "repo_full_name": "ksanderer/claude-vault",
    "path": null,
-   "stars": 71,
+   "stars": 72,
    "description": "Claude Code + Obsidian = ♥️",
    "kind": "sync",
    "security_grade": "safe",
