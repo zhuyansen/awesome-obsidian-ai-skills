@@ -19,6 +19,16 @@
   "file": "SystemSculpt__obsidian-systemsculpt-ai.jpg",
   "still": "SystemSculpt__obsidian-systemsculpt-ai.jpg"
  },
+ "lemoncloud-io/doki": {
+  "repo": "lemoncloud-io/doki",
+  "url": "https://raw.githubusercontent.com/lemoncloud-io/doki/HEAD/docs/assets/viewer-read-light.webp",
+  "alt": "볼트 뷰어로 연 예시 위키 — 왼쪽 문서 트리, 가운데",
+  "score": -0.35,
+  "type": "image/webp",
+  "bytes": 117706,
+  "file": "lemoncloud-io__doki.jpg",
+  "still": "lemoncloud-io__doki.jpg"
+ },
  "mistrysiddh/hermes-brain-template": {
   "repo": "mistrysiddh/hermes-brain-template",
   "url": "https://raw.githubusercontent.com/mistrysiddh/hermes-brain-template/HEAD/assets/graph-view-screenshot.png",
