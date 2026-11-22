@@ -90,17 +90,17 @@
 | [juliye2025/evil-read-arxiv](https://github.com/juliye2025/evil-read-arxiv) | 1.8k | Claude Code+Obsidian，快速读论文 | [SAFE](https://agentskillshub.top/skill/juliye2025/evil-read-arxiv/) |
 | [917Dhj/DeepPaperNote](https://github.com/917Dhj/DeepPaperNote) | 1.4k | 把一篇密集论文整理成值得保留的 Obsidian 笔记：按领域方式阅读，关联库中论文，服务自己的研究。适用于 Claude Code、Codex、Cursor… | [SAFE](https://agentskillshub.top/skill/917Dhj/DeepPaperNote/) |
 | [bevibing/tutor-skills](https://github.com/bevibing/tutor-skills) | 1.4k | 将 PDF、文档和代码库转换为 Obsidian 学习知识库的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/bevibing/tutor-skills/) |
-| [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain) | 782 | 由 LLM 维护的 Obsidian 个人知识库，基于 Andrej Karpathy 的 LLM Wiki 模式。 | [SAFE](https://agentskillshub.top/skill/NicholasSpisak/second-brain/) |
-| [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin) | 508 | 一条命令启动 AI 第二大脑：开源 Obsidian + Claude Code 系统，支持跨会话持久记忆。avenox.lol/beyin.md | [SAFE](https://agentskillshub.top/skill/avenoxai/avenoxbeyin/) |
+| [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain) | 783 | 由 LLM 维护的 Obsidian 个人知识库，基于 Andrej Karpathy 的 LLM Wiki 模式。 | [SAFE](https://agentskillshub.top/skill/NicholasSpisak/second-brain/) |
+| [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin) | 532 | 一条命令启动 AI 第二大脑：开源 Obsidian + Claude Code 系统，支持跨会话持久记忆。avenox.lol/beyin.md | [SAFE](https://agentskillshub.top/skill/avenoxai/avenoxbeyin/) |
 | [pablo-mano/Obsidian-CLI-skill](https://github.com/pablo-mano/Obsidian-CLI-skill) | 464 | 供 Claude Code 和其他 agent 使用的 Obsidian skill | [SAFE](https://agentskillshub.top/skill/pablo-mano/Obsidian-CLI-skill/) |
 | [XMihura/Kanvas](https://github.com/XMihura/Kanvas) | 423 | 使用 Obsidian Canvas 可视化管理项目，协同人类与 AI agent。 | [SAFE](https://agentskillshub.top/skill/XMihura/Kanvas/) |
 | [Encod3d-Sec/TORCH](https://github.com/Encod3d-Sec/TORCH) | 344 | 基于 Karpathy LLM 的 Claude 渗透测试/漏洞赏金框架，使用 Obsidian | [SAFE](https://agentskillshub.top/skill/Encod3d-Sec/TORCH/) |
 | [AgriciDaniel/claude-canvas](https://github.com/AgriciDaniel/claude-canvas) | 307 | 面向 Obsidian Canvas 的 AI 视觉创作，生成演示文稿、流程图、情绪板、知识图谱和画廊。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/claude-canvas/) |
 | [ArtemXTech/claude-code-obsidian-starter](https://github.com/ArtemXTech/claude-code-obsidian-starter) | 230 | 免费入门套件：Claude Code + Obsidian。预配置 vault，包含项目、任务、客户和日常事务的 skills，打开即可使用。 | [SAFE](https://agentskillshub.top/skill/ArtemXTech/claude-code-obsidian-starter/) |
 | [EESJGong/scholar-skill](https://github.com/EESJGong/scholar-skill) | 227 | 用于在 Obsidian 中进行学术阅读、知识关联、反思和知识演化的 OpenClaw skill | [SAFE](https://agentskillshub.top/skill/EESJGong/scholar-skill/) |
-| [Michael-OvO/obsidian-knowledge-agent](https://github.com/Michael-OvO/obsidian-knowledge-agent) | 204 | 由 agent 驱动，将原始材料（PDF、幻灯片、教学大纲、论文、URL）转为结构化教学级 Obsidian 笔记：导入、编译、分发。 | [SAFE](https://agentskillshub.top/skill/Michael-OvO/obsidian-knowledge-agent/) |
+| [Michael-OvO/obsidian-knowledge-agent](https://github.com/Michael-OvO/obsidian-knowledge-agent) | 203 | 由 agent 驱动，将原始材料（PDF、幻灯片、教学大纲、论文、URL）转为结构化教学级 Obsidian 笔记：导入、编译、分发。 | [SAFE](https://agentskillshub.top/skill/Michael-OvO/obsidian-knowledge-agent/) |
 | [gapmiss/obsidian-plugin-skill](https://github.com/gapmiss/obsidian-plugin-skill) | 201 | Obsidian.md 插件开发 Agent skill | [SAFE](https://agentskillshub.top/skill/gapmiss/obsidian-plugin-skill/) |
-| [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) | 182 | 学生LLMWiki：把课程幻灯片整理成互联知识库，支持费曼复习、备考、信心衰减和跨课关联，适配Claude Code与Obsidian。 | [SAFE](https://agentskillshub.top/skill/IssacW228/student-llm-wiki/) |
+| [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) | 181 | 学生LLMWiki：把课程幻灯片整理成互联知识库，支持费曼复习、备考、信心衰减和跨课关联，适配Claude Code与Obsidian。 | [SAFE](https://agentskillshub.top/skill/IssacW228/student-llm-wiki/) |
 | [ravila4/claude-adhd-skills](https://github.com/ravila4/claude-adhd-skills) | 173 | 用于保持 AI agents 有序的 Claude Code skills 和 hooks | [SAFE](https://agentskillshub.top/skill/ravila4/claude-adhd-skills/) |
 | [benoror/obsidianos_work](https://github.com/benoror/obsidianos_work) | 165 | ObsidianOS - 工作知识库 | [CAUTION](https://agentskillshub.top/skill/benoror/obsidianos_work/) |
 | [kv0906/pm-kit](https://github.com/kv0906/pm-kit) | 141 | 面向 Coding Agents 的 AI 辅助项目管理工作区：用 Markdown skills 记录每日站会、决策、阻塞、文档和迭代评审 | [SAFE](https://agentskillshub.top/skill/kv0906/pm-kit/) |
@@ -134,8 +134,8 @@
 | [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault) | 1.7k | 用于安全访问 Obsidian vault 的轻量级 Model Context Protocol (MCP) 服务器 | [SAFE](https://agentskillshub.top/skill/bitbonsai/mcpvault/) |
 | [jacksteamdev/obsidian-mcp-tools](https://github.com/jacksteamdev/obsidian-mcp-tools) | 831 | 为 Claude 或任意 MCP 客户端添加 Obsidian 集成，如语义搜索和自定义 Templater 提示词。 | [SAFE](https://agentskillshub.top/skill/jacksteamdev/obsidian-mcp-tools/) |
 | [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) | 752 | 用于 Obsidian 的简单 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/StevenStavrakis/obsidian-mcp/) |
-| [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) | 714 | 通过 MCP 读写、搜索并精准编辑 Obsidian vault 的笔记、标签和 frontmatter，支持 STDIO 或 Streamable HTTP。 | [SAFE](https://agentskillshub.top/skill/cyanheads/obsidian-mcp-server/) |
-| [itechmeat/open-second-brain](https://github.com/itechmeat/open-second-brain) | 611 | Hermes Agent 的记忆存于 Obsidian，记录项目上下文；夜间处理修正，形成带置信度的偏好。支持 Claude Code、Codex、OpenC… | [SAFE](https://agentskillshub.top/skill/itechmeat/open-second-brain/) |
+| [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) | 716 | 通过 MCP 读写、搜索并精准编辑 Obsidian vault 的笔记、标签和 frontmatter，支持 STDIO 或 Streamable HTTP。 | [SAFE](https://agentskillshub.top/skill/cyanheads/obsidian-mcp-server/) |
+| [itechmeat/open-second-brain](https://github.com/itechmeat/open-second-brain) | 613 | Hermes Agent 的记忆存于 Obsidian，记录项目上下文；夜间处理修正，形成带置信度的偏好。支持 Claude Code、Codex、OpenC… | [SAFE](https://agentskillshub.top/skill/itechmeat/open-second-brain/) |
 | [aaronsb/obsidian-mcp-plugin](https://github.com/aaronsb/obsidian-mcp-plugin) | 471 | 为 Obsidian 提供 MCP 服务器，通过语义操作和 HTTP 传输让 AI 工具直接访问知识库。 | [CAUTION](https://agentskillshub.top/skill/aaronsb/obsidian-mcp-plugin/) |
 | [iansinnott/obsidian-claude-code-mcp](https://github.com/iansinnott/obsidian-claude-code-mcp) | 365 | 通过 Model Context Protocol (MCP) 将 Claude Code 和其他 AI 工具连接到 Obsidian 笔记 | [SAFE](https://agentskillshub.top/skill/iansinnott/obsidian-claude-code-mcp/) |
 | [newtype-01/obsidian-mcp](https://github.com/newtype-01/obsidian-mcp) | 311 | Obsidian MCP（Model Context Protocol）服务器 | [SAFE](https://agentskillshub.top/skill/newtype-01/obsidian-mcp/) |
@@ -143,8 +143,8 @@
 | [jimprosser/obsidian-web-mcp](https://github.com/jimprosser/obsidian-web-mcp) | 192 | 远程 MCP server 访问 Obsidian vault，支持 Claude、手机和 MCP client；OAuth 2.0、Cloudflare T… | [SAFE](https://agentskillshub.top/skill/jimprosser/obsidian-web-mcp/) |
 | [willynikes2/knowledge-base-server](https://github.com/willynikes2/knowledge-base-server) | 190 | AI agent 持久化记忆，支持 SQLite FTS5、MCP server、Obsidian sync 和 self-learning intellig… | [SAFE](https://agentskillshub.top/skill/willynikes2/knowledge-base-server/) |
 | [devwhodevs/engraph](https://github.com/devwhodevs/engraph) | 175 | 面向 AI agents 的本地知识图谱，为 Obsidian vault 提供混合搜索和 MCP server。 | [SAFE](https://agentskillshub.top/skill/devwhodevs/engraph/) |
-| [Epistates/turbovault](https://github.com/Epistates/turbovault) | 158 | Markdown 与 OFM SDK，配备 MCP 服务器，将 Obsidian 知识库转化为智能知识系统 | [SAFE](https://agentskillshub.top/skill/Epistates/turbovault/) |
-| [istefox/obsidian-mcp-connector](https://github.com/istefox/obsidian-mcp-connector) | 138 | Obsidian 知识库可供 Claude 和任意 MCP 客户端访问，设备端语义搜索，无需云端往返或下载二进制文件。 | [SAFE](https://agentskillshub.top/skill/istefox/obsidian-mcp-connector/) |
+| [Epistates/turbovault](https://github.com/Epistates/turbovault) | 159 | Markdown 与 OFM SDK，配备 MCP 服务器，将 Obsidian 知识库转化为智能知识系统 | [SAFE](https://agentskillshub.top/skill/Epistates/turbovault/) |
+| [istefox/obsidian-mcp-connector](https://github.com/istefox/obsidian-mcp-connector) | 139 | Obsidian 知识库可供 Claude 和任意 MCP 客户端访问，设备端语义搜索，无需云端往返或下载二进制文件。 | [SAFE](https://agentskillshub.top/skill/istefox/obsidian-mcp-connector/) |
 | [Vasallo94/ObsidianRAG](https://github.com/Vasallo94/ObsidianRAG) | 127 | 使用本地 AI 询问 Obsidian 笔记。隐私优先的 RAG，支持 Ollama、LM Studio 或任何 OpenAI 兼容服务器。Obsidian… | [SAFE](https://agentskillshub.top/skill/Vasallo94/ObsidianRAG/) |
 | [flowing-abyss/obsidian-hybrid-search](https://github.com/flowing-abyss/obsidian-hybrid-search) | 126 | 通过插件、CLI 和 MCP server 对 Obsidian vault 进行混合搜索 | [SAFE](https://agentskillshub.top/skill/flowing-abyss/obsidian-hybrid-search/) |
 | [petersolopov/obsidian-claude-ide](https://github.com/petersolopov/obsidian-claude-ide) | 103 | Obsidian 插件——为 Claude Code 提供实时编辑器上下文 | [SAFE](https://agentskillshub.top/skill/petersolopov/obsidian-claude-ide/) |
@@ -171,20 +171,20 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 16.0k | 将 Claude Code/Codex 嵌入 Obsidian 知识库的 AI 协作插件 | [SAFE](https://agentskillshub.top/skill/YishenTu/claudian/) |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 16.1k | 将 Claude Code/Codex 嵌入 Obsidian 知识库的 AI 协作插件 | [SAFE](https://agentskillshub.top/skill/YishenTu/claudian/) |
 | [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) | 8.0k | 在 Obsidian 中运行 OpenCode、Codex、Claude Code 等 agent | [SAFE](https://agentskillshub.top/skill/logancyang/obsidian-copilot/) |
 | [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) | 2.5k | 通过 Agent Client Protocol (ACP) 在 Obsidian 中使用 AI agents，如 Claude Code、Codex 和 G… | [SAFE](https://agentskillshub.top/skill/RAIT-09/obsidian-agent-client/) |
 | [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) | 2.0k | Text Generator 是 Obsidian 插件，可使用 OpenAI、Anthropic、Google 及本地模型生成文本内容。 | [SAFE](https://agentskillshub.top/skill/nhaouari/obsidian-textgenerator-plugin/) |
 | [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) | 1.4k | Agent 原生 AI 助手——聊天、写作、白板和学习一体化。 | [SAFE](https://agentskillshub.top/skill/Lapis0x0/obsidian-yolo/) |
-| [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) | 1.3k | Obsidian 插件：改进搜索、交互式知识图谱，以及了解笔记的 AI 助手。 | [SAFE](https://agentskillshub.top/skill/s2b-dev/smart-second-brain/) |
-| [green-dalii/obsidian-llm-wiki](https://github.com/green-dalii/obsidian-llm-wiki) | 802 | Karpathy 的 LLM Wiki Obsidian 插件：将笔记和 PDF 转为关联知识库，支持实体页、概念页、图谱问答和本地隐私。 | [SAFE](https://agentskillshub.top/skill/green-dalii/obsidian-llm-wiki/) |
+| [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) | 1.4k | Obsidian 插件：改进搜索、交互式知识图谱，以及了解笔记的 AI 助手。 | [SAFE](https://agentskillshub.top/skill/s2b-dev/smart-second-brain/) |
+| [green-dalii/obsidian-llm-wiki](https://github.com/green-dalii/obsidian-llm-wiki) | 803 | Karpathy 的 LLM Wiki Obsidian 插件：将笔记和 PDF 转为关联知识库，支持实体页、概念页、图谱问答和本地隐私。 | [SAFE](https://agentskillshub.top/skill/green-dalii/obsidian-llm-wiki/) |
 | [infiolab/infio-copilot](https://github.com/infiolab/infio-copilot) | 658 | 受 Cursor 启发的 Obsidian AI 助手，提供智能自动补全和选中笔记互动聊天 | [SAFE](https://agentskillshub.top/skill/infiolab/infio-copilot/) |
 | [freestylefly/wesight-obsidian](https://github.com/freestylefly/wesight-obsidian) | 481 | WeSight 的 Obsidian 插件，用于本地 agent 运行时 | [SAFE](https://agentskillshub.top/skill/freestylefly/wesight-obsidian/) |
 | [hkcanan/katmer-code](https://github.com/hkcanan/katmer-code) | 479 | Obsidian 多提供商 AI 侧栏：Claude、Gemini、Codex、Antigravity。按标签页路由、同标签页咨询、内联差异、自动镜像 CLA… | [SAFE](https://agentskillshub.top/skill/hkcanan/katmer-code/) |
 | [qgrail/obsidian-ai-assistant](https://github.com/qgrail/obsidian-ai-assistant) | 374 | Obsidian 的 AI 助手插件 | [SAFE](https://agentskillshub.top/skill/qgrail/obsidian-ai-assistant/) |
 | [TarsLab/obsidian-tars](https://github.com/TarsLab/obsidian-tars) | 337 | Obsidian tars 插件，支持基于标签建议生成文本，兼容 DeepSeek、Claude、OpenAI、OpenRouter、SiliconFlow、… | [SAFE](https://agentskillshub.top/skill/TarsLab/obsidian-tars/) |
 | [pssah4/vault-operator](https://github.com/pssah4/vault-operator) | 266 | AI agent，作为协作伙伴、Copilot 和思考伙伴，维护知识库记忆，适配工作流，使用插件、skill、工具，支持安全控制、BYOK 和 MCP。 | [SAFE](https://agentskillshub.top/skill/pssah4/vault-operator/) |
-| [clairefro/obsidian-chat-cbt-plugin](https://github.com/clairefro/obsidian-chat-cbt-plugin) | 244 | AI 日记插件，适用于 Obsidian 笔记，受认知行为疗法启发 | [SAFE](https://agentskillshub.top/skill/clairefro/obsidian-chat-cbt-plugin/) |
+| [clairefro/obsidian-chat-cbt-plugin](https://github.com/clairefro/obsidian-chat-cbt-plugin) | 243 | AI 日记插件，适用于 Obsidian 笔记，受认知行为疗法启发 | [SAFE](https://agentskillshub.top/skill/clairefro/obsidian-chat-cbt-plugin/) |
 | [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) | 223 | Weaver 是 Obsidian 插件，将类似 ChatGPT 的界面集成到笔记流程中，便于获取 AI 建议和洞见，辅助写作与头脑风暴。 | [SAFE](https://agentskillshub.top/skill/vasilecampeanu/obsidian-weaver/) |
 | [Roasbeef/obsidian-claude-code](https://github.com/Roasbeef/obsidian-claude-code) | 217 | 在 Obsidian 中直接嵌入 Claude AI 助手的原生插件 | [SAFE](https://agentskillshub.top/skill/Roasbeef/obsidian-claude-code/) |
 | [SystemSculpt/obsidian-systemsculpt-ai](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) | 196 | 在桌面端用自己的 Claude Code 或 Codex，或托管 AI 与 Obsidian 知识库对话；经审批编辑笔记、转录音频并查找相关笔记。 | [SAFE](https://agentskillshub.top/skill/SystemSculpt/obsidian-systemsculpt-ai/) |
@@ -203,7 +203,7 @@
 | [cybaea/obsidian-vault-intelligence](https://github.com/cybaea/obsidian-vault-intelligence) | 82 | Obsidian 知识库智能 | [SAFE](https://agentskillshub.top/skill/cybaea/obsidian-vault-intelligence/) |
 | [jiang198012/workbuddian](https://github.com/jiang198012/workbuddian) | 73 | Obsidian 插件：将本地 CodeBuddy CLI 或 Hermes agent 接入 vault 内 AI 聊天，支持流式回复、@引用和双后端切换。 | [SAFE](https://agentskillshub.top/skill/jiang198012/workbuddian/) |
 | [0xneobyte/VaultAI](https://github.com/0xneobyte/VaultAI) | 72 | 使用 Gemini API 的 Obsidian AI 聊天机器人插件，用于笔记总结、内容生成等，类似 Notion AI bot。 | [SAFE](https://agentskillshub.top/skill/0xneobyte/VaultAI/) |
-| [TheManuelML/obsidian-agent](https://github.com/TheManuelML/obsidian-agent) | 71 | 使用你选择的服务商提供的 AI agent，增强 Obsidian vault。 | [SAFE](https://agentskillshub.top/skill/TheManuelML/obsidian-agent/) |
+| [TheManuelML/obsidian-agent](https://github.com/TheManuelML/obsidian-agent) | 72 | 使用你选择的服务商提供的 AI agent，增强 Obsidian vault。 | [SAFE](https://agentskillshub.top/skill/TheManuelML/obsidian-agent/) |
 | [Sparky4567/obsidian_ai_plugin](https://github.com/Sparky4567/obsidian_ai_plugin) | 68 | 在 Obsidian Vault 中使用本地大模型，根据已有输入续写故事或创作全新文本 | [SAFE](https://agentskillshub.top/skill/Sparky4567/obsidian_ai_plugin/) |
 | [bayradion/rabbitmap](https://github.com/bayradion/rabbitmap) | 63 | Obsidian 的无限画布插件，支持 AI 聊天节点，可将多个 LLM 对话与笔记并列，并从库中拖放管理上下文。 | [SAFE](https://agentskillshub.top/skill/bayradion/rabbitmap/) |
 | [Xia-Ataraxia/obsidian-metadata-auto-classifier](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) | 59 | 使用 AI 服务商为笔记生成标签和 frontmatter 元数据的 Obsidian 插件。 | [SAFE](https://agentskillshub.top/skill/Xia-Ataraxia/obsidian-metadata-auto-classifier/) |
@@ -223,8 +223,8 @@
 | [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) | 1.9k | Obsidian + Claude Code 个人知识管理系统入门套件 | [SAFE](https://agentskillshub.top/skill/ballred/obsidian-claude-pkm/) |
 | [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) | 1.6k | 能自我维护的 AI 第二大脑，包含指南、起始知识库、agent skills 和脚本，用于在 Claude Code 和 Obsidian 中构建自组织知识库。 | [SAFE](https://agentskillshub.top/skill/undefined-ui/second-brain-os/) |
 | [alchaincyf/obsidian-ai-orange-book](https://github.com/alchaincyf/obsidian-ai-orange-book) | 1.5k | Obsidian + Claude Code：用 AI 重建你的第二大脑 | [SAFE](https://agentskillshub.top/skill/alchaincyf/obsidian-ai-orange-book/) |
-| [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) | 742 | 让 AI 拥有持久记忆：将 Obsidian 知识库变成工作记忆的开源系统与模板。无需向量数据库，只用 Markdown。 | [SAFE](https://agentskillshub.top/skill/jaredrhod/ai-memory-vault/) |
-| [shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) | 433 | 面向 Obsidian 的 Karpathy 风格 LLM 知识库。克隆后运行 Claude Code，构建你的第二大脑。 | [SAFE](https://agentskillshub.top/skill/shannhk/llm-wikid/) |
+| [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) | 743 | 让 AI 拥有持久记忆：将 Obsidian 知识库变成工作记忆的开源系统与模板。无需向量数据库，只用 Markdown。 | [SAFE](https://agentskillshub.top/skill/jaredrhod/ai-memory-vault/) |
+| [shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) | 434 | 面向 Obsidian 的 Karpathy 风格 LLM 知识库。克隆后运行 Claude Code，构建你的第二大脑。 | [SAFE](https://agentskillshub.top/skill/shannhk/llm-wikid/) |
 | [Abilityai/cornelius](https://github.com/Abilityai/cornelius) | 121 | Claude Code + Obsidian 的 AI 第二大脑模板 | [SAFE](https://agentskillshub.top/skill/Abilityai/cornelius/) |
 | [brianpetro/obsidian-smart-templates](https://github.com/brianpetro/obsidian-smart-templates) | 116 | Smart Templates 是用于在 Obsidian 中生成结构化内容的 AI 模板，支持本地模型、Anthropic Claude、Gemini、Op… | [SAFE](https://agentskillshub.top/skill/brianpetro/obsidian-smart-templates/) |
 | [johnfkoo951/cmds-llm-wiki](https://github.com/johnfkoo951/cmds-llm-wiki) | 105 | LLM Wiki 模板：Karpathy 三层模式＋Gold In Gold Out 目的门＋Claude Code·Codex 双 harness（11 个… | [SAFE](https://agentskillshub.top/skill/johnfkoo951/cmds-llm-wiki/) |
@@ -232,8 +232,8 @@
 | [bbuch82/agentic-second-brain-guide](https://github.com/bbuch82/agentic-second-brain-guide) | 90 | 使用 MD 文件、Obsidian 和 OpenClaw 搭建第二大脑的指南 | [CAUTION](https://agentskillshub.top/skill/bbuch82/agentic-second-brain-guide/) |
 | [beiyuii/personal-api-skill](https://github.com/beiyuii/personal-api-skill) | 81 | 将 Obsidian 知识库作为个人身份层，让 AI agent 了解你的身份。 | [SAFE](https://agentskillshub.top/skill/beiyuii/personal-api-skill/) |
 | [lpaiu-cs/osk-system](https://github.com/lpaiu-cs/osk-system) | 76 | 基于来源的 MCP 记忆运行时和兼容 Obsidian 的 LLM agent 知识库模板。 | [SAFE](https://agentskillshub.top/skill/lpaiu-cs/osk-system/) |
-| [louisfb01/obsidian-agent-vault-template](https://github.com/louisfb01/obsidian-agent-vault-template) | 71 | 可直接使用的 Obsidian vault，将 AI agent（Claude、Codex 等）作为个人 OS：skills、grounding notes… | [SAFE](https://agentskillshub.top/skill/louisfb01/obsidian-agent-vault-template/) |
-| [chaenmasahiro0425/exbrain](https://github.com/chaenmasahiro0425/exbrain) | 67 | Exbrain 2.0 — 自主成长的外置AI大脑。Claude Code × Obsidian × 四层架构(raw/wiki/digest/identit… | [SAFE](https://agentskillshub.top/skill/chaenmasahiro0425/exbrain/) |
+| [louisfb01/obsidian-agent-vault-template](https://github.com/louisfb01/obsidian-agent-vault-template) | 72 | 可直接使用的 Obsidian vault，将 AI agent（Claude、Codex 等）作为个人 OS：skills、grounding notes… | [SAFE](https://agentskillshub.top/skill/louisfb01/obsidian-agent-vault-template/) |
+| [chaenmasahiro0425/exbrain](https://github.com/chaenmasahiro0425/exbrain) | 66 | Exbrain 2.0 — 自主成长的外置AI大脑。Claude Code × Obsidian × 四层架构(raw/wiki/digest/identit… | [SAFE](https://agentskillshub.top/skill/chaenmasahiro0425/exbrain/) |
 | [ashish141199/obsidian-claude-code](https://github.com/ashish141199/obsidian-claude-code) | 54 | Claude Code 的 Obsidian 工作流模板：用于知识管理的斜杠命令和结构 | [SAFE](https://agentskillshub.top/skill/ashish141199/obsidian-claude-code/) |
 | [sean-esk/second-brain-gtd](https://github.com/sean-esk/second-brain-gtd) | 54 | 使用 Obsidian 和 Claude Code skill 构建助手的第二大脑 | [SAFE](https://agentskillshub.top/skill/sean-esk/second-brain-gtd/) |
 | [ignromanov/llm-obsidian-wiki](https://github.com/ignromanov/llm-obsidian-wiki) | 18 | 用于在 Obsidian 中构建持久积累知识库的 Claude Code 插件。受 Karpathy 的 LLM Wiki 模式启发。 | [SAFE](https://agentskillshub.top/skill/ignromanov/llm-obsidian-wiki/) |
@@ -247,24 +247,24 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [codexu/note-gen](https://github.com/codexu/note-gen) | 13.0k | 先记录，后整理。以本地为先的 Markdown 应用，借助 AI 将零散记录整理成清晰笔记。 | [SAFE](https://agentskillshub.top/skill/codexu/note-gen/) |
-| [Railly/agentfiles](https://github.com/Railly/agentfiles) | 864 | 在 Obsidian 中浏览、创建和编辑 Claude Code、Cursor、Codex 及 12 种编程工具的 AI agent 文件。 | [SAFE](https://agentskillshub.top/skill/Railly/agentfiles/) |
+| [Railly/agentfiles](https://github.com/Railly/agentfiles) | 865 | 在 Obsidian 中浏览、创建和编辑 Claude Code、Cursor、Codex 及 12 种编程工具的 AI agent 文件。 | [SAFE](https://agentskillshub.top/skill/Railly/agentfiles/) |
 | [ArtemXTech/personal-os-skills](https://github.com/ArtemXTech/personal-os-skills) | 555 | Claude Code 的 Obsidian skill，Claude Code x Obsidian Lab 5月5日开始 | [SAFE](https://agentskillshub.top/skill/ArtemXTech/personal-os-skills/) |
-| [smixs/agent-second-brain](https://github.com/smixs/agent-second-brain) | 502 | 可随时对话的第二大脑。Telegram语音笔记转为Obsidian中的文字和关联知识，使用现有Claude订阅全天运行。 | [SAFE](https://agentskillshub.top/skill/smixs/agent-second-brain/) |
+| [smixs/agent-second-brain](https://github.com/smixs/agent-second-brain) | 504 | 可随时对话的第二大脑。Telegram语音笔记转为Obsidian中的文字和关联知识，使用现有Claude订阅全天运行。 | [SAFE](https://agentskillshub.top/skill/smixs/agent-second-brain/) |
 | [nemocake/claude-obsidian-assistant](https://github.com/nemocake/claude-obsidian-assistant) | 476 | 用于 Claude Code 的 Obsidian 笔记库模板，含 Johnny Decimal、/obsidian skill、主题和 CLAUDE.md。 | [SAFE](https://agentskillshub.top/skill/nemocake/claude-obsidian-assistant/) |
 | [chenxiachan/xhs-claude-skills](https://github.com/chenxiachan/xhs-claude-skills) | 435 | 用于将小红书帖子提取为 Obsidian 笔记的 Claude Code slash commands | [SAFE](https://agentskillshub.top/skill/chenxiachan/xhs-claude-skills/) |
-| [treylom/knowledge-manager](https://github.com/treylom/knowledge-manager) | 255 | Claude Code 知识管理 Agent：从网页、PDF、社交媒体提取内容并整理到 Obsidian/Notion | [SAFE](https://agentskillshub.top/skill/treylom/knowledge-manager/) |
+| [treylom/knowledge-manager](https://github.com/treylom/knowledge-manager) | 256 | Claude Code 知识管理 Agent：从网页、PDF、社交媒体提取内容并整理到 Obsidian/Notion | [SAFE](https://agentskillshub.top/skill/treylom/knowledge-manager/) |
 | [dannymcc/Granola-to-Obsidian](https://github.com/dannymcc/Granola-to-Obsidian) | 228 | 自动将 Granola AI 笔记同步到 Obsidian 的插件 | [SAFE](https://agentskillshub.top/skill/dannymcc/Granola-to-Obsidian/) |
 | [SIXIANGGUO/cc-note-ops](https://github.com/SIXIANGGUO/cc-note-ops) | 210 | 由 Claude Code 驱动的 Obsidian 笔记操作面板 | [SAFE](https://agentskillshub.top/skill/SIXIANGGUO/cc-note-ops/) |
 | [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) | 141 | 面向家庭的 AI agent 医疗资料库，结合 Obsidian 模板、AI 提示词工作流和 Apple Health 导出的 TypeScript 预处理流程 | [SAFE](https://agentskillshub.top/skill/h1papc11/healthcare-ai-agent-vault/) |
+| [ekadetov/llm-wiki](https://github.com/ekadetov/llm-wiki) | 111 | LLM Wiki——用于在 Obsidian 中构建持久、不断积累知识库的 Claude Code 插件 | [SAFE](https://agentskillshub.top/skill/ekadetov/llm-wiki/) |
 | [iurykrieger/claude-bedrock](https://github.com/iurykrieger/claude-bedrock) | 111 | Obsidian 知识库第二大脑自动化：通过 Claude Code skills 管理实体、导入、压缩和同步 | [SAFE](https://agentskillshub.top/skill/iurykrieger/claude-bedrock/) |
-| [ekadetov/llm-wiki](https://github.com/ekadetov/llm-wiki) | 110 | LLM Wiki——用于在 Obsidian 中构建持久、不断积累知识库的 Claude Code 插件 | [SAFE](https://agentskillshub.top/skill/ekadetov/llm-wiki/) |
 | [capitalparser/notebooklm-wiki-pipeline](https://github.com/capitalparser/notebooklm-wiki-pipeline) | 95 | 通过 NotebookLM MCP 将 Google Drive PDF 转为 Obsidian wiki 笔记，无需加载完整 PDF 到 Claude 上下… | [SAFE](https://agentskillshub.top/skill/capitalparser/notebooklm-wiki-pipeline/) |
 | [trapoom555/claude-paperloom](https://github.com/trapoom555/claude-paperloom) | 95 | 用于 Claude Code + Obsidian 自维护研究知识图谱的插件 | [SAFE](https://agentskillshub.top/skill/trapoom555/claude-paperloom/) |
 | [MarioPadilla/claude-vault](https://github.com/MarioPadilla/claude-vault) | 89 | Claude Vault 是命令行工具，可将 Claude AI 对话和 Claude Code 同步为 Markdown 文件，兼容 Obsidian 等笔… | [SAFE](https://agentskillshub.top/skill/MarioPadilla/claude-vault/) |
 | [crimeacs/claude-note](https://github.com/crimeacs/claude-note) | 88 | AI 结对编程助手的记忆，与 Obsidian 同步 | [SAFE](https://agentskillshub.top/skill/crimeacs/claude-note/) |
 | [letta-ai/letta-obsidian](https://github.com/letta-ai/letta-obsidian) | 84 | Obsidian 插件，集成 Letta，提供了解 vault 内容并记住对话的有状态 AI agent | [SAFE](https://agentskillshub.top/skill/letta-ai/letta-obsidian/) |
 | [ksanderer/claude-vault](https://github.com/ksanderer/claude-vault) | 73 | Claude Code + Obsidian = ♥️ | [SAFE](https://agentskillshub.top/skill/ksanderer/claude-vault/) |
-| [GuppyTheCat/obsidian-clipper-template-creator](https://github.com/GuppyTheCat/obsidian-clipper-template-creator) | 69 | 帮助 AI agent 为 Obsidian Web Clipper 创建可导入的 JSON 模板 | [SAFE](https://agentskillshub.top/skill/GuppyTheCat/obsidian-clipper-template-creator/) |
+| [GuppyTheCat/obsidian-clipper-template-creator](https://github.com/GuppyTheCat/obsidian-clipper-template-creator) | 70 | 帮助 AI agent 为 Obsidian Web Clipper 创建可导入的 JSON 模板 | [SAFE](https://agentskillshub.top/skill/GuppyTheCat/obsidian-clipper-template-creator/) |
 | [howdeploy/ObsidianDataWeave](https://github.com/howdeploy/ObsidianDataWeave) | 61 | Claude skills 和用户指南工具包，将 NotebookLM 笔记转为 Obsidian MOC + Zettelkasten 知识系统。 | [SAFE](https://agentskillshub.top/skill/howdeploy/ObsidianDataWeave/) |
 | [duolahypercho/codex-knowledge-llm](https://github.com/duolahypercho/codex-knowledge-llm) | 29 | Codex 插件与 Obsidian vault kit，将任意内容转为知识系统。 | [SAFE](https://agentskillshub.top/skill/duolahypercho/codex-knowledge-llm/) |
 | [eliColussi/obsidian-ai-vault-kit](https://github.com/eliColussi/obsidian-ai-vault-kit) | 9 | 将任意文件夹变成可自动记录的 Obsidian vault。Claude Code hooks 自动将每个提示、回答和文件编辑记录到 Daily note。一… | [SAFE](https://agentskillshub.top/skill/eliColussi/obsidian-ai-vault-kit/) |
@@ -286,4 +286,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-21。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-22。
